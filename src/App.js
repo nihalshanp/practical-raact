@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Icons from "./Icons/Icons";
+import Toast from "./Components/Toast/Toast";
 
 function App() {
   return (
     <div className="App">
-      <Icons />
+      <Toast/>
     </div>
   );
 }
