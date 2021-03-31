@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Modals from "./Components/Modals/Modals";
+import Tooltip from "./Components/Tooltip/Tooltip";
 
 function App() {
   return (
     <div className="App">
-      <Modals/>
+      <Tooltip/>
     </div>
   );
 }
