@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Toast from "./Components/Toast/Toast";
+import Modals from "./Components/Modals/Modals";
 
 function App() {
   return (
     <div className="App">
-      <Toast/>
+      <Modals/>
     </div>
   );
 }
