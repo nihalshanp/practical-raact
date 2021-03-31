@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Tooltip from "./Components/Tooltip/Tooltip";
+import CountUpContainer from "./Components/Countup/CountUp";
 
 function App() {
   return (
     <div className="App">
-      <Tooltip/>
+      <CountUpContainer/>
     </div>
   );
 }
