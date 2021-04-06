@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import IdleTImerContainer from "./Components/Idle-Timer/IdleTImerContainer";
+import ColorPocker from "./Components/ColorPicker/ColorPocker";
 
 function App() {
   return (
     <div className="App">
-      <IdleTImerContainer/>
+      <ColorPocker/>
     </div>
   );
 }
