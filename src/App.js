@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import ColorPocker from "./Components/ColorPicker/ColorPocker";
+import CreditCard from "./Components/credit-cards/CreditCard";
 
 function App() {
   return (
     <div className="App">
-      <ColorPocker/>
+      <CreditCard />
     </div>
   );
 }
