@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import CreditCard from "./Components/credit-cards/CreditCard";
+import DatePickerDemo from "./Components/Date-picker/DatePicker";
 
 function App() {
   return (
     <div className="App">
-      <CreditCard />
+      <DatePickerDemo />
     </div>
   );
 }
