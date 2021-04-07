@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
-import ReactPlayerDemo from "./Components/react-player/ReactPlayer";
+import ReactSpinnersDemo from "./Components/react-spinners/ReactSpinners";
 
 
 function App() {
   return (
     <div className="App">
-      <ReactPlayerDemo />
+      <ReactSpinnersDemo />
     </div>
   );
 }
